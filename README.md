@@ -120,4 +120,8 @@ scrape_configs:
 
 
 
+![telegram-cloud-photo-size-2-5309764280616347726-y](https://github.com/user-attachments/assets/0e4c7258-e050-4fdb-a665-ec317efcd602)
+
+
+![telegram-cloud-photo-size-2-5309764280616347727-y](https://github.com/user-attachments/assets/6adc9a55-f64d-4028-8f0f-3b9802d89943)
 
